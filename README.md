@@ -1,4 +1,4 @@
-# libe-hp
+# astro-hp-sample
 
 Astro.js と Cloudflare Workers を使ったホームページ制作プロジェクトです。
 
